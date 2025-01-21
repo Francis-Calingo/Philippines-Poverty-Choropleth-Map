@@ -1,4 +1,4 @@
-# PROJECT OVERVIEW: Philippines-Poverty-Choropleth-Map
+# PROJECT OVERVIEW: Philippines Poverty Choropleth Map
   <ul>
     <li>Used ArcGIS Pro to map the sub-national spatial relationships of poverty in the Philippines.</li>
     <li>Scraped socioeconomic data from the Philippine Statistics Authority and the IBON Foundation.</li>

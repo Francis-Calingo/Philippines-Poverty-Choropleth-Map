@@ -79,5 +79,9 @@ Based on the choropleth map, it appears that poverty is highly concentrated in t
 
 ## Credits and Acknowledgements
 
+“GIS, Mapping, and Spatial Analysis.” University of Toronto. Coursera, https://www.coursera.org/specializations/gis-mapping-spatial-analysis
+
+"Project 1 - Mapping Nigerian states by GDP". Uploaded by Umar Yusuf, 2022-02-08. YouTube, https://www.youtube.com/watch?v=X0b2DsV-6O4&list=PLeHfkOtgcB2vCWjcPRxbhF5e_exR_DMWa
+
 [<b>Back to Table of Contents</b>](#table-of-contents)
 

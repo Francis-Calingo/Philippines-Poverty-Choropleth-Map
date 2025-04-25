@@ -11,7 +11,6 @@
 * [Web Scraping](#web-scraping)
 * [Results](#results)
 * [Discussion](#discussion)
-* [Recommendations](#recommendations)
 * [Assumptions and Caveats](#assumptions-and-caveats)
 * [Credits and Acknowledgements](#credits-and-acknowledgements)
 

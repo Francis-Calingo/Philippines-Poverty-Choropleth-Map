@@ -1,18 +1,25 @@
 # PROJECT OVERVIEW: Philippines Poverty Choropleth Map
-  <ul>
-    <li>Used ArcGIS Pro to map the sub-national spatial relationships of poverty in the Philippines.</li>
-    <li>Scraped socioeconomic data from the Philippine Statistics Authority and the IBON Foundation.</li>
-    <li>Feature classes digitized: Polygon (choropleth map of wage gap Philippine regions), Line(island grouping boundaries), Point (5 most impoverished cities).</li>
-    <li>Monetary conversion: $1 CAD = 40.70 PHP.</li>
-  </ul>
+
 
 ## Table of Contents
+* [Overview](#overview)
 * [Code and Setup](#code-and-setup)
 * [Web Scraping](#web-scraping)
 * [Results](#results)
 * [Discussion](#discussion)
 * [Assumptions and Caveats](#assumptions-and-caveats)
 * [Credits and Acknowledgements](#credits-and-acknowledgements)
+
+---
+
+## Overview
+
+  <ul>
+    <li>Used ArcGIS Pro to map the sub-national spatial relationships of poverty in the Philippines.</li>
+    <li>Scraped socioeconomic data from the Philippine Statistics Authority and the IBON Foundation.</li>
+    <li>Feature classes digitized: Polygon (choropleth map of wage gap Philippine regions), Line(island grouping boundaries), Point (5 most impoverished cities).</li>
+    <li>Monetary conversion: $1 CAD = 40.70 PHP.</li>
+  </ul>
 
 ---
 

@@ -25,6 +25,8 @@
 
 ## Code and Setup
 
+[Download ArcGIS Pro (version 3.4), must be signed in.](https://pro.arcgis.com/en/pro-app/latest/get-started/install-and-sign-in-to-arcgis-pro.htm)
+
 If you'd like to fork or run this locally:
 
 ```bash

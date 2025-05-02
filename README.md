@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Code and Setup](#code-and-setup)
 * [Web Scraping](#web-scraping)
+* [Map Development](#map-development)
 * [Results](#results)
 * [Discussion](#discussion)
 * [Assumptions and Caveats](#assumptions-and-caveats)
@@ -54,6 +55,21 @@ cd Philippines-Poverty-Choropleth-Map
 </ul>
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
+
+---
+
+## Map Development
+
+| Layer Type  | Layer Description | Layer Symbology | Number of Elements | 
+| ------------- | ------------- | ------------- | ------------- |
+| Polygon | Regions of the Philippines | Blue gradient colour based on wage gap data, shapes based on shapefile data | 17 |
+| Line | Boundaries demarcating the Philippines' 3 major island groups | Dashed blue lines with labels | 2 |
+| Point | 5 most impoverished cities in the Philippines | Red dots with black outline, and labels | 5 |
+
+Other elements:
+* North compass
+* Map legend
+* Scale (in kilometres)
 
 ---
 

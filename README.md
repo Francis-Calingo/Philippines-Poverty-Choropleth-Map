@@ -71,6 +71,8 @@ Other elements:
 * Map legend
 * Scale (in kilometres)
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 ---
 
 ## Results

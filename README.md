@@ -75,9 +75,9 @@ Below illustrates the approximate workflow of ArcGIS Pro's Table Join, which tak
 
 <img src="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/ERD%20Shapefile%20Excel%20ArcGIS.jpeg"/>
 
-[Link to website to download zipfile for the Shapefile]("https://data.humdata.org/dataset/cod-ab-phl")
+[Link to website to download zipfile for the Shapefile](https://data.humdata.org/dataset/cod-ab-phl)
 
-[Link to CSV for wage gap data]("https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/Data/PH%20Wage%20Gap-December%202024.csv")
+[Link to CSV for wage gap data](https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/Data/PH%20Wage%20Gap-December%202024.csv)
 
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
